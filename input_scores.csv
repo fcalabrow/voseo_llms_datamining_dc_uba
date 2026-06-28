@@ -67,21 +67,20 @@ pair_idx,base,pair,hashed_conver,hashed_ip,country
 65,,"('créame', 'creame')",41c4c28e5ea6aa64a83e56d162c79f8d,f83a59f9894899d143c56e2dc4f7fc73aa2e257a336a326a37dc24fded4f2e08,Spain
 66,,"('Muéstrame', 'Mostrame')",2ba6172447fa8f1c64b5c94670a07104,74e6cc19665567295f57b83be0f96b117f147e218ed3f178c93fb0a4a4fa401b,Spain
 67,,"('Considera', 'Considerá')",7f378d6d348803d1d9c6b1bb4b25c8a7,e2a310cf14bccade00c755119ecb681aa5f5f071b8eaf0ea272fcfc2099e083e,Argentina
-68,Hola me,"('puedes', 'podes')",3a4f84577a3585a7a8532e1d997558c5,435e304230fca2adeac4854016a76d8087a7b035fc19786fc18621aeebb78b5b,Argentina
-69,,"('Ponte', 'Ponete')",3f5180f20601ebea2e60b143e16f0c57,503c3ec8c865f5651d7e24a9bb63280361deee2f76e3bec52a0b754f4a0faf47,Argentina
-70,,"('Compon', 'Compone')",a0fb5ee9c7523ed3b997b0952b9b24db,cd9279129708ed5df559d9d034c59461cee8136412623503a5e390854631fb80,Argentina
-71,hola me,"('puedes', 'podes')",adb4f454cb0e100faa98de42064195fc,f2db7da512a9cb8dac87407858e2e193d3ce2c316b8bbcda0618e46bf24331a5,Argentina
-72,,"('actúa', 'actuá')",7522d06812810b6a2623ead8647c15f9,ec713e3fa8832a0368c84bce558c592fc028188abac89b20be1b711f9b6e871a,Argentina
-73,En lista lo que,"('tú', 'vos')",c7ccc3e47cffe97eb28a62d7242a56ba,7178958e2e7b9cc22e754a780a9b1b3de3172fd5731fd15b59f33e1379e19873,Argentina
-74,"Hola,","('explícame', 'explicame')",05cd045bdc4d3bb97b081ab2527772dd,197f5abc8b4e62414f8ab6aa481aadf733bb61d6fc570fa01ba4bdb0c9cabf6c,Argentina
-75,,"('ayúdame', 'ayudame')",00e1b9e7b66ec3a10fc4174d0d6d43d7,1c22d3040570730c5baafcf6c5c88b705a18049bf7543e5d18d167702fc8b639,Argentina
-76,me,"('puedes', 'podes')",b66836c75b37c17c34f59407a24635a1,6883a3a4b9d182147343d03362af6e0abc0c63897fa42f9ba89c825024014578,Argentina
-77,que version de GPT,"('eres', 'sos')",50e213099b7d5b44a7cb74ef3b9f225c,86279eceb0f0c32324ec5156dc65f083723f4de579a220c8c416a13145c1048d,Argentina
-78,"Remind me again, this makes how many times Sanji runs off to save Zoro?","('Traduce', 'Traduci')",15cc0201d0335b8d5531357fe942bf2a,0bee208d62c49ce98d975c984b2f25bb434cb26cc108ce67736d4b1ca86272c5,Argentina
-79,"Estoy escribiendo una nota sobre la experiencia de cocineros o pasantes en cocinas con estrellas michelin y relacionandolo con. la sere “the bear”, por favor","('sugiere', 'sugeri')",bc9a36b82665e4f063c910a8fe3bd032,91f2b870744596afaf52b204ed7e9df4c63c6ee89863fcafe21785870ef22308,Argentina
-80,chatgpt,"('hazme', 'haceme')",7d7bc625814e2141e7007f846738fc82,786967ed184d917c898a0a3ee6b8da4643edf4039eef12e7a41f512ba110d7d8,Argentina
-81,,"('escribeme', 'escribime')",5994de559130d222922d38b6e52d67d8,1a428bf5ff6ce1927d14ff92ebff264cc8c41469e16e2ea76d288ad666d6d4a1,Argentina
-82,"estoy haciendo mi pagina de estudio juridico, pero no se si debo hablar en plular o singular ya que soy el unico, pero quizas genera algo hanlar en plural que","('dices', 'decis')",d30856bc7fab47ad4e174b7343754afb,356600cd45ea5e9dfe836490f7237d8319d6a6b4c2f479c6ba43d160496133a4,Argentina
-83,hola,"('puedes', 'podes')",8c6c87a8e3dfc8948a85e9b916f2e50c,bf73b1f2945a3ef6bfd07f23837f22d06f4aec7c9b44d7f25923c464fac0e27a,Argentina
-84,,"('Defíneme', 'Definime')",a3d9f7f1d145be7b99d4f0a7c283cce8,3900e63539e3938d758fe11e55b50bd2b2a00104c1d6897b490fb1697ccee439,Argentina
-85,Investigame y,"('escríbeme', 'escribime')",5ced825399028fc1a5c9b40509defaea,cfaa5383ba2137924af3626db9248b3e08ea1bbb1b48b5463a2ebda2e1ab046d,Argentina
+68,,"('Ponte', 'Ponete')",3f5180f20601ebea2e60b143e16f0c57,503c3ec8c865f5651d7e24a9bb63280361deee2f76e3bec52a0b754f4a0faf47,Argentina
+69,,"('Compon', 'Compone')",a0fb5ee9c7523ed3b997b0952b9b24db,cd9279129708ed5df559d9d034c59461cee8136412623503a5e390854631fb80,Argentina
+70,hola me,"('puedes', 'podes')",adb4f454cb0e100faa98de42064195fc,f2db7da512a9cb8dac87407858e2e193d3ce2c316b8bbcda0618e46bf24331a5,Argentina
+71,,"('actúa', 'actuá')",7522d06812810b6a2623ead8647c15f9,ec713e3fa8832a0368c84bce558c592fc028188abac89b20be1b711f9b6e871a,Argentina
+72,En lista lo que,"('tú', 'vos')",c7ccc3e47cffe97eb28a62d7242a56ba,7178958e2e7b9cc22e754a780a9b1b3de3172fd5731fd15b59f33e1379e19873,Argentina
+73,"Hola,","('explícame', 'explicame')",05cd045bdc4d3bb97b081ab2527772dd,197f5abc8b4e62414f8ab6aa481aadf733bb61d6fc570fa01ba4bdb0c9cabf6c,Argentina
+74,,"('ayúdame', 'ayudame')",00e1b9e7b66ec3a10fc4174d0d6d43d7,1c22d3040570730c5baafcf6c5c88b705a18049bf7543e5d18d167702fc8b639,Argentina
+75,me,"('puedes', 'podes')",b66836c75b37c17c34f59407a24635a1,6883a3a4b9d182147343d03362af6e0abc0c63897fa42f9ba89c825024014578,Argentina
+76,que version de GPT,"('eres', 'sos')",50e213099b7d5b44a7cb74ef3b9f225c,86279eceb0f0c32324ec5156dc65f083723f4de579a220c8c416a13145c1048d,Argentina
+77,"Remind me again, this makes how many times Sanji runs off to save Zoro?","('Traduce', 'Traduci')",15cc0201d0335b8d5531357fe942bf2a,0bee208d62c49ce98d975c984b2f25bb434cb26cc108ce67736d4b1ca86272c5,Argentina
+78,"Estoy escribiendo una nota sobre la experiencia de cocineros o pasantes en cocinas con estrellas michelin y relacionandolo con. la sere “the bear”, por favor","('sugiere', 'sugeri')",bc9a36b82665e4f063c910a8fe3bd032,91f2b870744596afaf52b204ed7e9df4c63c6ee89863fcafe21785870ef22308,Argentina
+79,chatgpt,"('hazme', 'haceme')",7d7bc625814e2141e7007f846738fc82,786967ed184d917c898a0a3ee6b8da4643edf4039eef12e7a41f512ba110d7d8,Argentina
+80,,"('escribeme', 'escribime')",5994de559130d222922d38b6e52d67d8,1a428bf5ff6ce1927d14ff92ebff264cc8c41469e16e2ea76d288ad666d6d4a1,Argentina
+81,"estoy haciendo mi pagina de estudio juridico, pero no se si debo hablar en plular o singular ya que soy el unico, pero quizas genera algo hanlar en plural que","('dices', 'decis')",d30856bc7fab47ad4e174b7343754afb,356600cd45ea5e9dfe836490f7237d8319d6a6b4c2f479c6ba43d160496133a4,Argentina
+82,hola,"('puedes', 'podes')",8c6c87a8e3dfc8948a85e9b916f2e50c,bf73b1f2945a3ef6bfd07f23837f22d06f4aec7c9b44d7f25923c464fac0e27a,Argentina
+83,,"('Defíneme', 'Definime')",a3d9f7f1d145be7b99d4f0a7c283cce8,3900e63539e3938d758fe11e55b50bd2b2a00104c1d6897b490fb1697ccee439,Argentina
+84,Investigame y,"('escríbeme', 'escribime')",5ced825399028fc1a5c9b40509defaea,cfaa5383ba2137924af3626db9248b3e08ea1bbb1b48b5463a2ebda2e1ab046d,Argentina
