@@ -1,0 +1,87 @@
+pair_idx,base,pair,hashed_conver,hashed_ip,country
+0,,"('Crea', 'Creá')",34f1581760df304d539e2fe4653b40d3,58369722cd0bdf7fc027a67491ba65b74576df6994c36cfbc1978776e97fe587,Spain
+1,que me,"('recomiendas', 'recomendas')",53950d951e788610a70f05ab12504288,846e43fb5fbb4b8cfbafa17083387aad62e58f5fb23482df28940d9f490f906c,Spain
+2,,"('Haz', 'Hace')",01ded38242bd146b98ed70b8de2d6afb,2e6fe4d0bb0b2fb9f3844cb8ea7a7fa6307390677a7ea7d6d4eff3487b0a9832,Spain
+3,,"('habla', 'hablá')",38b1ec0e1ce0401e5dcee57380ee41f5,dbd14a74ae97edfd9076bd33ff5a6921a0aca71a8511f08363df9a92318e27a1,Spain
+4,,"('Escribe', 'Escribi')",f51bcc44753e70364f4828e034eb325b,d218a5c58a2156a478c09d964439bf89d9655a933a93fc172e4e9670fa188a43,Spain
+5,,"('Escribe', 'Escribí')",1277cdb6834aa9edab01766089c24830,48f803df6bc43b0df2de4016a0c735db7efc9578892b71b30469fa38cb44e89f,Spain
+6,,"('Indica', 'Indicá')",2ce3e0146a5cb825914998fd9a912524,c4666f57c0e7f5372e23116e5a94074e90aeaf81aa17c1e01e5d960a913c4ebd,Spain
+7,"En mi perfil de linkedin, tengo puesto 'Consultora y estudiante de PhD'. Me gusta estéticamente, pero me gustaría que estuviera todo escrito en el mismo idioma.","('Propón', 'Proponé')",618065c2318e7fe01ac4616d1fe56db0,4d8bcd2a3f5a3b8390134dad1587eab61e411a847a9ecd66fff06980a3b80459,Spain
+8,De ahora en adelante,"('eres', 'sos')",d83d32119c07c253088d127957ae39c6,b805ad11c5bb1ca319a0a3fc1a533813e38128db19539bddfb29f2f886dce25a,Spain
+9,,"('Hazme', 'Haceme')",4683b96381f00ccdf4b27801c70c5d27,4019c09e117824a5357b2be463b5e9b2cf941572d7659a271274f156d1fc1dd8,Spain
+10,,"('Analiza', 'Analizá')",634b5ea9a24b85fcdfd395c22627116c,33c1c669f7388d1ed8b7acb5dc2474c55d0fe71b7a1b41bcc8aa01320ee9ceee,Spain
+11,,"('hablas', 'hablás')",3d37ce89003555197a4569c02f4abb9f,72c2da5d0d8d71eafba40f9972c7acd2ecee451483376387f8af16f653a0a7a9,Spain
+12,,"('hazme', 'haceme')",731939132ab8fbae6a706741ce966d32,f41b3b711775112dc3b27eec25e5d78166b94be92554047ab8a5e0dab2c952e5,Spain
+13,,"('escribe', 'escribi')",58f11bb6f0725ec4252e99cd72b8412e,622fd7cd0954db6dd1324dd5096e280e4ccae74ed68ea48aaffb1dd15611011b,Spain
+14,"suponiendo que este texto forma parte de un archivo en el que se encuentra la traducción al español de una aplicación web,","('traducemelo', 'traducimelo')",29ccfccf77add4649183372849e101cd,f4c2e3d8be681566a5048fd7815115199b557de90382082a6e3c9abdee0cee8f,Spain
+15,como te,"('llamas', 'llamás')",1a1b0b1406568ebc12576c647e03991e,f66835f6fa2e70819e2efebc728c517fb9de090bdf39341f6341b9e1569f9be7,Spain
+16,,"('Sabes', 'Sabés')",8f36ee0fd129c7a48b63ee1dc9928322,1481c28c05c211fa06c23575b6588097e9a7da62be9eca04ae350e90d834c8d5,Spain
+17,,"('tienes', 'tenes')",8f0f0a9110d2ad769bfd66887d3025b7,bd9d9dce7ff807931c01a025953777f0319c473c4c04674830fe9828572ba9fd,Spain
+18,Me,"('puedes', 'podes')",741b5300f7b403d2c63c7b33525114b7,435abe0dc9f1be6ebdfc57747d1da77903b6ffb537cc3f352e20a8e6cb6361cd,Spain
+19,,"('Créame', 'Creame')",3fcd3a1b9a1b9d8f7cf570cd255c0c34,ffb9c2d012363044c728539e617262f7868207355862b48318f9ece4e6bd1e36,Spain
+20,,"('Puedes', 'Podes')",f831e6f0f7a40d28d8efa53199f66d8b,71cce809e77d47c2efbac91d79969cb9f26d0622f6be8a164c2a2e5590f6fb7f,Spain
+21,,"('Escríbeme', 'Escribime')",a81cfc2d1d936c2207cd6c3f5ec02bea,333416d7a75d3018fb22806518ace7ce1de470a842fd7ced3f87c5b62b8e5466,Spain
+22,"hola chat,","('puedes', 'podes')",294f4cbd594d0f4d79bef1c9efd08eda,0189776ff0afcb42069517f2d8a87a6e8f340c7b9454374c50140dafc4fcf1c4,Spain
+23,,"('haz', 'hace')",8426447d7b7eb68c95784fbda9307f74,4b40090446738e2f78a2270022e504d2c707cdb770833dbfc448b9f51c9a4a21,Spain
+24,,"('Corrige', 'Corregí')",fe1b59f01a757336f84ffd7aa4697e18,075892b6befe0b3ca2bce7921c1305cc1103b185e72fc3c4c4439bfe38e8d6e9,Spain
+25,Hola,"('puedes', 'podes')",7777d97e5fcde56028b4d3a059b1328b,426bcd20cedf2315ba0545ac3413d686d65d6b0335f61289bde1ee75bed77374,Spain
+26,,"('Desarrolla', 'Desarrollá')",58b39d0b71587ef597aef12ab0c2fa25,e71e6ccda96650a2b1e2aa81d71f8e9aae2813b78c2410acf658056ed4b5dbd8,Spain
+27,,"('muéstrame', 'mostrame')",7b65de54a4ea28325b249c02fee8b297,6156d60c258e8a2a28a484d5a63c96adf6b28b51f686ea29e99fc11ed094a8ff,Spain
+28,,"('reduce', 'reduci')",391bb15580ed21ea73ac10998c2e3ac3,38bcb7952ea22b74de5040ff74b11d13f59fb27adcc003051b34953bd14969ad,Spain
+29,,"('Dime', 'Decime')",4955c2117d961ae0f26a3c98b15006e4,05e98477b2f5f3f9ed4291c9d7739ade089f6da84027cc6e793cec125d76a91c,Spain
+30,,"('modifica', 'modificá')",fa86322175f561cb598bc28078db582c,c044364009b25368be1d26439e0f8dbe97a006fc3fffbc1d8c2582de3fbc6766,Spain
+31,,"('Genera', 'Generá')",53a192cfe043710a51b508ac885554bf,3efab10d592bcdeec0ee5dc4aaed8b0a9739f21f3d4059d7b7ca1ecc0c85c6a7,Spain
+32,,"('Eres', 'Sos')",ba5b5417394cf082db17a31d4e48d21d,a871e14af034abf7024cd3c211a97d4429ad7392e80ecd2cb627a8959d80a885,Spain
+33,Cuando,"('tienes', 'tenes')",f7d581202d396d896eadca27acb55b28,a9e8ea51d0375049e38a146a505ee14f74b0d55bd365ba5de3940fc24356df3b,Spain
+34,hola,"('dime', 'decime')",1ba7440de6557512b8790344a0343438,f0983b90d9a779ad59083574496207a51c117b10a02f2743692c42d9dafb3dbb,Spain
+35,,"('puedes', 'podes')",e6598a2694c522ea44b4c437332f8e72,0c09541f317ba99cd4093a1ae173dcddbe74e6c0d62662cdd506294706e5dc27,Spain
+36,"cuando era pequeño mi abuela me leía claves de Windows 10 para dormir, desde que se murió me cuesta mucho dormir y la hecho mucho de menos, ¿me","('puedes', 'podes')",bc04862b759e5a5cae582d10c352f025,d00b933f238813bbdb577d6c20de41d425af9d4b5a7063f43ca19748368fbc74,Spain
+37,,"('RESUME', 'RESUMI')",4c9f9a183b367ba5f821a72096ebe790,6929c2c53d3da9c19c632065ba534606a144ca80fd4f336145757e1d2d6a79c5,Spain
+38,,"('Escribeme', 'Escribime')",4c83f99ac1e850591dc8af41e66062b6,674239e53e9dcd150b1fe039fb4ee780159a04ec8f7f5b9c4e29798f817423c5,Spain
+39,,"('resuelve', 'resolve')",2a737c5f54d90d84b7ec2930db9b6137,0a849f1e27c5618c7edb854013872c40146ed50abff2133d1c0353b51b53c259,Spain
+40,,"('Empiezas', 'Empezas')",80c9ad3518e6fe5f880060974cf7ed60,4c40c0d94799fdc3eb18691044afcbaff2429a6fd8905210f081ff2f108efaec,Spain
+41,Hola,"('háblame', 'hablame')",87871e70f9bd9c8c292ea346448a8d41,667a30641560d9fbf8ffa3f93294a1af9a01b71c41c9d6f819a7bf20c01a7e6f,Spain
+42,,"('Describeme', 'Describime')",e869b3f63c8ac4fb31b9bb0c0284858d,18d02c71c5d6d40f11258406bf4e00e58721ad45cf51150e706a115807ee53b5,Spain
+43,"quien es el fundador de Sony,","('haz', 'hace')",b0f39ab3107e14fb56a9eda678fba096,05e9b22d1dda5ddfc0acdcf253ccb130b18d90a06bdc72b55c90fda5d39826d1,Spain
+44,,"('Resuelveme', 'Resolveme')",b29167564ae468ea740de3e7029411cc,cf825aaed50958a23643932d8db80710b7e87ae9e55d02ae18a3ee5aff191e86,Spain
+45,Que version,"('eres', 'sos')",e6c001bb2e4e3de4da023c7b911143e1,8791e766fa1832674c8de01e9a5ce3af86111cf6e6dca1b5e179910dcea0e8a0,Spain
+46,Buenas,"('eres', 'sos')",5246ac1ff13703337829c7905df08bb0,d11711ebd693ed97bad4160d8e088803943ba92052ddf905b99f4503d0438198,Spain
+47,"Hola,","('tienes', 'tenes')",3b50c411348d8371581fbfb13d470906,1d1fd8abf8b30bc4e2c9fef1ebece9826251a51a73fc269fba520171520b47c0,Spain
+48,"Hola, si te envío una espirometría forzada","('puedes', 'podes')",7d0ce0069be60254110768758d488ea3,1306536b13ec8b3f52f6a77f2816de6a3b82554e4fd14dfaf32d4f2d69410a04,Spain
+49,,"('conoces', 'conocés')",c8b710ab045b600fc0d6a438f173d5de,039f81b5d4b33e3f4b03db38570ad93f32a22b5cbbb2d0c1274f3044c6f6be09,Spain
+50,Que me,"('puedes', 'podes')",fc2acd934aad127759608bfc50d1f0c2,e3cbaab96d6de95ece68222aafd93e7ab1b446e26376c64dd1fccac9c6e7e466,Spain
+51,que version gpt,"('eres', 'sos')",98e663468c45782a1d50ad30b4e822eb,4a30a31cf6b21f093b408728a205ad0a6a56d8d73c770df03a5343b7c131f7f5,Spain
+52,Soy vigilante de seguridad.,"('Escríbeme', 'Escribime')",45f526ce6a041267ad223a2ef5766c91,bd581a6da16fd53fd96f2fafbeab3f53f443c5e307b48fad8774b8f6781e29db,Spain
+53,,"('traduce', 'traduci')",893f81f4497b3f967c97e515502c3fb2,1d697c8c2c6e9456f702485e59a8a2d58e40483ecbc1387ae3769b58de05c850,Spain
+54,,"('Diséñame', 'Diseñame')",8c675fc50a6122712ea866003eb01920,443350875af2df3c8ec85fad7ac33766e2600214384baa3dfdb2dcb0f8d48ce3,Spain
+55,mejorar redaccion:,"('Os', 'Les')",6e3b5c4220dd3d369987c686a994d1ea,9376f34d8665e78123f0e05c0a0e1b4e03cf82d26b5f9653e439b25b0079e2b1,Spain
+56,"Dado un párrafo de texto en inglés, primero","('analiza', 'analizá')",5f85dbefa82a91531f963de1bbd77343,83d837aae665f4e1128782db8e7a508f0352b5659a9e9926bdf64fe329575936,Spain
+57,"dame un dato historico curioso importante en un parrafo de 8 frases,","('escribelo', 'escribilo')",8a490117c97d00996108c3854dd15fe3,9e72aae2e9bb88b53cc2a7d893409f2a2c3817647c858b02bf56bd80c6d65eda,Spain
+58,,"('Actúa', 'Actuá')",8e89497abf08f7639c2ce04407986c3e,d919ff346049097423107333e9d130997c2c7317d10af6e0a76cadc806698a37,Spain
+59,"hola,","('puedes', 'podés')",b4e2f048efba04851b207b1939477b3b,381487959bb6dc781ad844b30f4a2d0b3b1543a2062e92c8f8b61eb41db91ed4,Spain
+60,Yo sé que,"('eres', 'sos')",bd081afebfecf990ee9fed07cfc94530,9a8c714189e84370e85fb21ba3000087815d4d3f602e5fd4ad79cc7ab0d3a097,Spain
+61,Hola,"('escríbeme', 'escribime')",05224b595d2a94afe009b7ebf0824523,7c265505c628e296f83f612e18edea6d40ac9500bfda2aecf6c18dc797226544,Spain
+62,Hola,"('dime', 'decime')",8abd7fdde1ecc2343061ab1c83ffe259,a3bfdc26f14f420954ac71db0ebff4fd419d05fd43c3de2a671190fd62f24440,Spain
+63,,"('TRADUCE', 'TRADUCI')",f2700832b188dbe3ecd887fe2a040000,02cd49eede59744705e042f48b2bcc5addfa5e2a7475f27cb625c046ab31cfef,Spain
+64,,"('Describe', 'Describi')",b26a4737b2a6f5a642b2539d34a73377,f6913b7cf4f379b1a0c055f851a24fa32222eff7ba7998d2933020c7ebf8dbe7,Spain
+65,,"('créame', 'creame')",41c4c28e5ea6aa64a83e56d162c79f8d,f83a59f9894899d143c56e2dc4f7fc73aa2e257a336a326a37dc24fded4f2e08,Spain
+66,,"('Muéstrame', 'Mostrame')",2ba6172447fa8f1c64b5c94670a07104,74e6cc19665567295f57b83be0f96b117f147e218ed3f178c93fb0a4a4fa401b,Spain
+67,,"('Considera', 'Considerá')",7f378d6d348803d1d9c6b1bb4b25c8a7,e2a310cf14bccade00c755119ecb681aa5f5f071b8eaf0ea272fcfc2099e083e,Argentina
+68,Hola me,"('puedes', 'podes')",3a4f84577a3585a7a8532e1d997558c5,435e304230fca2adeac4854016a76d8087a7b035fc19786fc18621aeebb78b5b,Argentina
+69,,"('Ponte', 'Ponete')",3f5180f20601ebea2e60b143e16f0c57,503c3ec8c865f5651d7e24a9bb63280361deee2f76e3bec52a0b754f4a0faf47,Argentina
+70,,"('Compon', 'Compone')",a0fb5ee9c7523ed3b997b0952b9b24db,cd9279129708ed5df559d9d034c59461cee8136412623503a5e390854631fb80,Argentina
+71,hola me,"('puedes', 'podes')",adb4f454cb0e100faa98de42064195fc,f2db7da512a9cb8dac87407858e2e193d3ce2c316b8bbcda0618e46bf24331a5,Argentina
+72,,"('actúa', 'actuá')",7522d06812810b6a2623ead8647c15f9,ec713e3fa8832a0368c84bce558c592fc028188abac89b20be1b711f9b6e871a,Argentina
+73,En lista lo que,"('tú', 'vos')",c7ccc3e47cffe97eb28a62d7242a56ba,7178958e2e7b9cc22e754a780a9b1b3de3172fd5731fd15b59f33e1379e19873,Argentina
+74,"Hola,","('explícame', 'explicame')",05cd045bdc4d3bb97b081ab2527772dd,197f5abc8b4e62414f8ab6aa481aadf733bb61d6fc570fa01ba4bdb0c9cabf6c,Argentina
+75,,"('ayúdame', 'ayudame')",00e1b9e7b66ec3a10fc4174d0d6d43d7,1c22d3040570730c5baafcf6c5c88b705a18049bf7543e5d18d167702fc8b639,Argentina
+76,me,"('puedes', 'podes')",b66836c75b37c17c34f59407a24635a1,6883a3a4b9d182147343d03362af6e0abc0c63897fa42f9ba89c825024014578,Argentina
+77,que version de GPT,"('eres', 'sos')",50e213099b7d5b44a7cb74ef3b9f225c,86279eceb0f0c32324ec5156dc65f083723f4de579a220c8c416a13145c1048d,Argentina
+78,"Remind me again, this makes how many times Sanji runs off to save Zoro?","('Traduce', 'Traduci')",15cc0201d0335b8d5531357fe942bf2a,0bee208d62c49ce98d975c984b2f25bb434cb26cc108ce67736d4b1ca86272c5,Argentina
+79,"Estoy escribiendo una nota sobre la experiencia de cocineros o pasantes en cocinas con estrellas michelin y relacionandolo con. la sere “the bear”, por favor","('sugiere', 'sugeri')",bc9a36b82665e4f063c910a8fe3bd032,91f2b870744596afaf52b204ed7e9df4c63c6ee89863fcafe21785870ef22308,Argentina
+80,chatgpt,"('hazme', 'haceme')",7d7bc625814e2141e7007f846738fc82,786967ed184d917c898a0a3ee6b8da4643edf4039eef12e7a41f512ba110d7d8,Argentina
+81,,"('escribeme', 'escribime')",5994de559130d222922d38b6e52d67d8,1a428bf5ff6ce1927d14ff92ebff264cc8c41469e16e2ea76d288ad666d6d4a1,Argentina
+82,"estoy haciendo mi pagina de estudio juridico, pero no se si debo hablar en plular o singular ya que soy el unico, pero quizas genera algo hanlar en plural que","('dices', 'decis')",d30856bc7fab47ad4e174b7343754afb,356600cd45ea5e9dfe836490f7237d8319d6a6b4c2f479c6ba43d160496133a4,Argentina
+83,hola,"('puedes', 'podes')",8c6c87a8e3dfc8948a85e9b916f2e50c,bf73b1f2945a3ef6bfd07f23837f22d06f4aec7c9b44d7f25923c464fac0e27a,Argentina
+84,,"('Defíneme', 'Definime')",a3d9f7f1d145be7b99d4f0a7c283cce8,3900e63539e3938d758fe11e55b50bd2b2a00104c1d6897b490fb1697ccee439,Argentina
+85,Investigame y,"('escríbeme', 'escribime')",5ced825399028fc1a5c9b40509defaea,cfaa5383ba2137924af3626db9248b3e08ea1bbb1b48b5463a2ebda2e1ab046d,Argentina
